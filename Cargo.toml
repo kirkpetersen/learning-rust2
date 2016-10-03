@@ -1,0 +1,7 @@
+[package]
+name = "learning-rust2"
+version = "0.1.0"
+authors = ["Kirk Petersen <kirk.petersen@gmail.com>"]
+
+[dependencies]
+image = "*"
